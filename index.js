@@ -7,6 +7,7 @@ import { roomsRouter } from './routes/getAllRooms.js'
 import { bookRoomRouter } from "./routes/bookRoom.js";
 import { customersRouter } from "./routes/getAllCustomers.js";
 
+
 dotenv.config();
 const app = express();
 app.use(cors())
