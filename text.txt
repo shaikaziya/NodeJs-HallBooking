@@ -1,0 +1,7 @@
+npm install nodemon --save
+
+npm install -g --force nodemon
+
+"nodemon": "^2.0.20"
+
+https://medium.com/@oaeskuruni27/3-tricks-for-solving-the-heroku-application-error-adeef5782b9d
